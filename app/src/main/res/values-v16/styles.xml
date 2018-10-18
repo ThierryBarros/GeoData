@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="digital_7" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/digital_7</item>
+    </style>
+</resources>

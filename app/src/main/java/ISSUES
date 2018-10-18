@@ -1,0 +1,28 @@
+
+Problemas
+    ~ Mudança de tela está aumentando os pontos
+    ~ Switch está aumentando os pontos
+    Resolve com contagem de tempo
+
+    ~ LastTimeUpdate está zerando quando fecha o app
+    Resolve fazendo um singleton Timer
+
+    ~ Informação de ACC: ESPERANDO... demora até a proxima medição... melhor usar a ultima medida do buffer
+
+    ~ Falta colocar informação da pontuação ganha com o context screen
+
+    ~ Paleta de cores não está em harmonia
+
+    ~ Efeito do clique em botões está ruim.
+
+    ~ Icone das abas não tem nada a ver com a aba
+
+    ~ GeoLocTracker locationCallback precisa ser refatorado... está sempre coletando geo loc
+
+    ~ A coleta de geoloc está duplicando muitos documentos
+
+
+TODO
+    ~ Diminuir frequencia de coleta caso a acurácia esteja ruim
+    ~ Tela do que está fazendo
+    ~ Tela de conversão de pontos em cupons
